@@ -1,0 +1,8 @@
+1. Right click on "Debloat", run as admin, when it asks "Would you like to remove Microsoft related packages and general bloatware?" type: "yes". Then wait for it to finish.
+2. Right click on "Advanced Debloat Script", run as admin, click on and remove the following: "Remove all bloatware", Remove Bloatware with custom blocklist", Disable Cortana,
+Disable Edge PDF, Enable Dark theme, uninstall onedrive, unpin tiles from start menu, disable telemetry / tasks, and remove bloatware regkeys.
+3. Restart PC
+
+*Note* During the debloat, you may see that the script is "not responding". Just wait for it to respond and it will work.
+
+Credits to EverythingTech for the first debloat script HE IS A LEGEND. 

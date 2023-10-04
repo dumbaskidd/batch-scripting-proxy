@@ -1,0 +1,1 @@
+este orden es general, todos los que usen esto deben hacer lo siguiente: primero instalar el timer resolution service, es decir, no necesitas usar nunca mas ningun app para eso, despues, deshabilitar el largesystemcache, despues poner el tscsyncpolicy en legacy; despues ir a experimental, y poner el inscrease VA, por ultimo el MMCSS, Y DESPUES SEGUIR CON EL BOOST

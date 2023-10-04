@@ -1,0 +1,14 @@
+el orden es: 
+1. entrar a start ups y seleccionar la config de sensei, despues usar los start ups. Luego...
+
+2. entrar a 00 before y seguir las instrucciones (en esa carpeta, al ultimo se tendra que reiniciar con la computadora.
+
+3. despues entrar a 0 EJECUTAR ANTES y mover el Set.ACL a la carpeta windows en el disco local 'C'
+
+4. ejecutar todos los bats y regs, ademas de testear el unpark de nuecleos, es decir, despues del boost, testear que es mejor: nucleos unparkeados o parkeados. 
+
+5. (RECOMENDACIONES): no usar nada de tweaks para el internet, solo los que sean para hardware y latencia, tambien recomiendo colocar
+el nip y la configuracion de process lasso cada vez que reinicies la computadora,
+
+6. cuando vayas a jugar, estos son los pasos: prender tu pc como alguien normal, despues ejecutar la configuracion de sensei y los start ups,
+luego reiniciar y cerrar los procesos que no sirven en el admin de tareas, por ultimo solo ejecutar la config de sensei otra vez, pero ya no los start ups. Y asi siempre que juegues.
